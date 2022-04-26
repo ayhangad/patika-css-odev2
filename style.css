@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-section {
+    padding: 4px 0;
+    background-color: #eeeeee;
+    flex-direction: column;
+    width: 1262px;
+}
+
+.searchbox {
+    width: 280px;
+}
+
+.table-section {
+    width: 1262px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tables {
+    margin: 4px;
+    padding: 8px 0;
+    width: 420px;
+    height: 76px;
+    display: flex;
+    flex-direction: column;
+    background-color: #7ee5da;
+    justify-content: center;
+    align-items: center;
+}
